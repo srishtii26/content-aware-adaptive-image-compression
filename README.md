@@ -268,11 +268,15 @@ The experiments also demonstrate the relationship between compression quality, s
 
 <img width="1280" height="434" alt="WhatsApp Image 2026-11-16 at 20 38 46 (3)" src="https://github.com/user-attachments/assets/c4ce11bb-9dbf-421c-88bc-483eee50c683" />
 
+
 <img width="1280" height="521" alt="WhatsApp Image 2026-11-16 at 20 38 46" src="https://github.com/user-attachments/assets/19ec45e6-4132-4b49-b409-21e9648f04c0" />
+
 
 <img width="1280" height="673" alt="WhatsApp Image 2026-11-16 at 20 38 46 (1)" src="https://github.com/user-attachments/assets/328feb15-47f9-4c84-b99f-5300f8ebbb40" />
 
+
 <img width="1280" height="727" alt="WhatsApp Image 2026-11-16 at 20 38 46 (2)" src="https://github.com/user-attachments/assets/f2feba58-c023-4a4c-b3fb-c199349a19ac" />
+
 
 
 ---
